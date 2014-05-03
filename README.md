@@ -1,4 +1,4 @@
-# LinkedIn Perfect Share plugin for WordPress
+# LinkedIn Perfect Share
 Provides precise Open Graph data to LinkedIn for perfect sharing
 
 ### Issue
